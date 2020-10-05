@@ -135,5 +135,8 @@
   <ItemGroup>
     <None Include="Resources\Footsteps_on_Cement-Tim_Fryer-870410055.wav" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Titlescreen.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
